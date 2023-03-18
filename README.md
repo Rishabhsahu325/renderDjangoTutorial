@@ -5,7 +5,7 @@ Some self notes
   In the tutorial configuration changes.
   When poetry install command is executed ,it first tries to use configurations from generated lock file. Therefore before deployment ,existing lock files should be deleted to avoid conflicts.
   
-  To avoid redeployment on particular commits use the following info in the git commit messages.
+  To avoid redeployment on particular commits use the following info from https://render.com/docs/deploys
   
 Skipping an Auto-Deploy
 
